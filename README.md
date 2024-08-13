@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+#Areas I am working on - 
+- Plant Development Biology
+- Plant Stress Biology
+- Single cell Transcriptomics
+- Bioconductor Packages
 <!--
 **vpbio/vpbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
